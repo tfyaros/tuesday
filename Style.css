@@ -1,0 +1,22 @@
+p{
+    color:blue;
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans', monospace;
+    }
+
+    .yellow{
+        background: yellow;
+    }
+
+    .blue{
+        background:blue;
+        color: white;
+    }
+
+    img{
+        width: 10vh , 100vw -- 
+        viewport height
+        viewport width:
+    }
